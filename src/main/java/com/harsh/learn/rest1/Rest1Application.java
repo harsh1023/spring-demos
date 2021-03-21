@@ -24,9 +24,9 @@ public class Rest1Application {
 
 			String[] beanNames = ctx.getBeanDefinitionNames();
 			Arrays.sort(beanNames);
-			for (String beanName : beanNames) {
-				System.out.println(beanName);
-			}
+	//		for (String beanName : beanNames) {
+	//			System.out.println(beanName);
+	//		}
 
 		};
 	}
