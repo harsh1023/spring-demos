@@ -34,4 +34,4 @@ These additional references should also help you:
 * Creating CommandLineRunner as a bean
 * Creating custom advice
 * Listing all beans 
-* 
+* Adding Example for JPA inhertance 
